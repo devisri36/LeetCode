@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devisri36/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devisri36/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devisri36/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/devisri36/LeetCode/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/devisri36/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devisri36/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/devisri36/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/devisri36/LeetCode/tree/master/0389-find-the-difference) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/devisri36/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
