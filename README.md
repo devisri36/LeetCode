@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/devisri36/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/devisri36/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Sorting
 |  |
@@ -54,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/devisri36/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/devisri36/LeetCode/tree/master/0070-climbing-stairs) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/devisri36/LeetCode/tree/master/0191-number-of-1-bits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/devisri36/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
