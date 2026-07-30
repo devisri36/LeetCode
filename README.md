@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devisri36/LeetCode/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devisri36/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/devisri36/LeetCode/tree/master/0389-find-the-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devisri36/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/devisri36/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/devisri36/LeetCode/tree/master/0070-climbing-stairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devisri36/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
 | ------- |
