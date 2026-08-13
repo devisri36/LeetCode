@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/devisri36/LeetCode/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/devisri36/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devisri36/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/devisri36/LeetCode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/devisri36/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/devisri36/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/devisri36/LeetCode/tree/master/1140-stone-game-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/devisri36/LeetCode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/devisri36/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/devisri36/LeetCode/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devisri36/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devisri36/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/devisri36/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/devisri36/LeetCode/tree/master/0389-find-the-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devisri36/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devisri36/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/devisri36/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/devisri36/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Memoization
 |  |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/devisri36/LeetCode/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devisri36/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |
@@ -136,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devisri36/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devisri36/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
