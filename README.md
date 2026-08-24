@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/devisri36/LeetCode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/devisri36/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/devisri36/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0560-subarray-sum-equals-k](https://github.com/devisri36/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/devisri36/LeetCode/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/devisri36/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1140-stone-game-ii](https://github.com/devisri36/LeetCode/tree/master/1140-stone-game-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/devisri36/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/devisri36/LeetCode/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/devisri36/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devisri36/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devisri36/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devisri36/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/devisri36/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/devisri36/LeetCode/tree/master/1140-stone-game-ii) |
 ## Sliding Window
 |  |
