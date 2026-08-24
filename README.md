@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/devisri36/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/devisri36/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/devisri36/LeetCode/tree/master/0877-stone-game) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/devisri36/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1140-stone-game-ii](https://github.com/devisri36/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/devisri36/LeetCode/tree/master/1406-stone-game-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devisri36/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devisri36/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/devisri36/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/devisri36/LeetCode/tree/master/0389-find-the-difference) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/devisri36/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devisri36/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devisri36/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/devisri36/LeetCode/tree/master/3731-find-missing-elements) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devisri36/LeetCode/tree/master/0011-container-with-most-water) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/devisri36/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devisri36/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devisri36/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devisri36/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devisri36/LeetCode/tree/master/0169-majority-element) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/devisri36/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devisri36/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |
