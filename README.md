@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/devisri36/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/devisri36/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/devisri36/LeetCode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/devisri36/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/devisri36/LeetCode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devisri36/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Tree
 |  |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devisri36/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/devisri36/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
