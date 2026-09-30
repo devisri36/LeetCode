@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/devisri36/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devisri36/LeetCode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/devisri36/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0287-find-the-duplicate-number](https://github.com/devisri36/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/devisri36/LeetCode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/devisri36/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devisri36/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/devisri36/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devisri36/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/devisri36/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
